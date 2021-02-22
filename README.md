@@ -9,4 +9,4 @@ Steps to run:
 3. run main.py module
 4. Select 'wall', place walls to control enemies route. Select done once completed
 5. Select 'turret', place turrets to defend your territory. Select done once completed
-6. Select start to defed your territory against waves of enemies
+6. Select start to defend your territory against waves of enemies
